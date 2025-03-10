@@ -1,0 +1,52 @@
+{
+  "id": "void-1680-am",
+  "title": "VOID 1680 AM",
+  "description": "FoundryVTT compendiums for VOID 1680 AM by Ken Lowery",
+  "version": "#{VERSION}#",
+  "compatibility": {
+    "minimum": 12,
+    "verified": 13,
+    "maximum": 13
+  },
+  "authors": [
+    {
+      "name": "David Y. Hudson",
+      "discord": "jendave",
+      "url": "https://jendave.itch.io/"
+    },
+    {
+      "name": "Ken Lowery",
+      "url": "https://bannerlessgames.itch.io/void-1680-am"
+    }
+  ],
+  "packs": [
+    {
+      "name": "void1680amrolltables",
+      "label": "VOID 1680 AM Roll Tables",
+      "path": "./packs/void-1680-am-rolltables",
+      "type": "RollTable"
+    },
+    {
+      "name": "void1680ammacros",
+      "label": "VOID 1680 AM Macros",
+      "path": "./packs/void-1680-am-macros",
+      "type": "Macro"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "VOID 1680 AM",
+      "packs": [
+        "void1680amrolltables",
+        "void1680ammacros"
+      ]
+    }
+  ],
+  "manifest": "#{MANIFEST}#",
+  "url": "#{URL}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "https://raw.githubusercontent.com/jendave/void-1680-am/main/LICENSE",
+  "changelog": "https://raw.githubusercontent.com/jendave/void-1680-am/main/CHANGELOG.md",
+  "readme": "https://raw.githubusercontent.com/jendave/void-1680-am/main/README.md",
+  "bugs": "https://github.com/jendave/void-1680-am/issues"
+}
