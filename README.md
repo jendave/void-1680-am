@@ -9,20 +9,20 @@
 
 A FoundryVTT compendium of rolltables and macros for [VOID 1680 AM](https://bannerlessgames.itch.io/void-1680-am) by [Ken Lowery](https://bannerlessgames.itch.io).
 
-Augmented Reality: The Holistic City Kit For Cyberpunk Games can also be found at the following links:
+[VOID 1680 AM](https://bannerlessgames.itch.io/void-1680-am) can also be found at the following links:
 
-* [itch.io](https://p-d-gallagher.itch.io/augmented-reality)
-* [Dungeon Masters Guild](https://www.dmsguild.com/product/202175/Augmented-Reality-The-Holistic-City-Kit-For-Cyberpunk-Games?language=esFfiltersD)
+* [Drive Thru RPG](https://www.drivethrurpg.com/en/product/429839/void-1680-am)
 
 ## Features and Notes
 
-* VOID 1680 AM is a single-player tabletop roleplaying game. In it, you will take on the persona of a radio broadcaster and use tools of chance to build your playlist and sketch out the identities and concerns of people who call in to talk to you.
+* [VOID 1680 AM](https://bannerlessgames.itch.io/void-1680-am) is a single-player tabletop roleplaying game. In it, you will take on the persona of a radio broadcaster and use tools of chance to build your playlist and sketch out the identities and concerns of people who call in to talk to you.
 * The FoundryVTT module includes roll tables and macros for the tables in the RPG.
+* Includes the *Voices in the Void* expansion.
 * The resources are presented as compendiums in a module instead of a complete RPG system. The compendiums can be pulled into any system as desired.
 
 ## Module Installation
 
-To install the module, click on `Install Module` and search for `1680` in the `Add-On Modules` tab of the Foundry VTT game setup screen. Then click on `Install`.
+~~To install the module, click on `Install Module` and search for `1680` in the `Add-On Modules` tab of the Foundry VTT game setup screen. Then click on `Install`.~~
 
 Or use this URL and click on `Install`:
 
