@@ -19,6 +19,7 @@ A FoundryVTT compendium of rolltables and macros for [VOID 1680 AM](https://bann
 * The FoundryVTT module includes roll tables and macros for the tables in the RPG.
 * Includes the *Voices in the Void* expansion.
 * The resources are presented as compendiums in a module instead of a complete RPG system. The compendiums can be pulled into any system as desired.
+  * The [Simple World-Building system](https://foundryvtt.com/packages/worldbuilding) can server as a default, if needed.
 
 ## Module Installation
 
