@@ -7,7 +7,7 @@
 
 ## About
 
-An unofficial FoundryVTT compendium of rolltables and macros for [VOID 1680 AM](https://bannerlessgames.itch.io/void-1680-am) by [Ken Lowery](https://bannerlessgames.itch.io).
+Unofficial FoundryVTT compendiums of rolltables and macros for [VOID 1680 AM](https://bannerlessgames.itch.io/void-1680-am) by [Ken Lowery](https://bannerlessgames.itch.io).
 
 [VOID 1680 AM](https://bannerlessgames.itch.io/void-1680-am) can also be found at the following links:
 
@@ -33,19 +33,30 @@ https://github.com/jendave/void-1680-am/releases/latest/download/module.json
 
 ### Install Resources
 
+#### List of Compendiums
+
+*VOID 1680 AM Roll Tables Compendium*
+*VOID 1680 AM Macros Compendium*
+*VOID 1680 AM Gameplay Compendium*
+![Compendiums](https://github.com/jendave/void-1680-am/blob/main/docs/compendium-list.jpg?raw=true)
+
+
 #### From the *VOID 1680 AM Roll Tables Compendium*
 
 * Copy all roll tables from the *VOID 1680 AM Roll Tables* into the Rollable Tables tab.
+![Roll Tables](https://github.com/jendave/void-1680-am/blob/main/docs/rolltables-list.jpg?raw=true)
 
 #### From the *VOID 1680 AM Macros Compendium*
 
 * Copy the *VOID 1680 AM Macros* folder to the Macros tab.
 * Individual macros can be dragged onto the Macro bar as needed.
+![Macros](https://github.com/jendave/void-1680-am/blob/main/docs/macros-list.jpg?raw=true)
 
 #### From the *VOID 1680 AM Gameplay Compendium*
 
 * Copy the *VOID 1680 AM Gameplay* folder into the Journal tab for easy reference.
 * The *Gameplay* journal entry describes how to play the game using the macros and roll tables.
+* ![Gaeplay Documents](https://github.com/jendave/void-1680-am/blob/main/docs/journal-entries-list.jpg?raw=true)
 
 ## Contact
 
