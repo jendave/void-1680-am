@@ -7,7 +7,7 @@
 
 ## About
 
-A FoundryVTT compendium of rolltables and macros for [VOID 1680 AM](https://bannerlessgames.itch.io/void-1680-am) by [Ken Lowery](https://bannerlessgames.itch.io).
+An unofficial FoundryVTT compendium of rolltables and macros for [VOID 1680 AM](https://bannerlessgames.itch.io/void-1680-am) by [Ken Lowery](https://bannerlessgames.itch.io).
 
 [VOID 1680 AM](https://bannerlessgames.itch.io/void-1680-am) can also be found at the following links:
 
@@ -19,7 +19,7 @@ A FoundryVTT compendium of rolltables and macros for [VOID 1680 AM](https://bann
 * The FoundryVTT module includes roll tables and macros for the tables in the RPG.
 * Includes the *Voices in the Void* expansion.
 * The resources are presented as compendiums in a module instead of a complete RPG system. The compendiums can be pulled into any system as desired.
-  * The [Simple World-Building system](https://foundryvtt.com/packages/worldbuilding) can server as a default, if needed.
+  * The [Simple World-Building system](https://foundryvtt.com/packages/worldbuilding) can serve as a default, if needed.
 
 ## Module Installation
 
@@ -31,13 +31,24 @@ Or use this URL and click on `Install`:
 https://github.com/jendave/void-1680-am/releases/latest/download/module.json
 ```
 
-### Install Rolltables
+### Install Resources
 
-Open the `VOID 1680 AM Rolltables` compendium and copy the folders to the `Rollable Tables` tab.
+#### From the *VOID 1680 AM Roll Tables Compendium*
 
-### Install Macros
+* Copy all roll tables from the into the Rollable Tables tab.
 
-Macros for the kit can be found in the `VOID 1680 AM Macros` compendium. Drag and drop any you need into the macro toolbar. Macros use the current `Roll Mode` when executed.
+#### From the *VOID 1680 AM Macros Compendium*
+
+* Copy the macros from the *Song Blocks* folder onto the macro bar.
+* If desired copy the macros from the *Song Block - Voices in the Void* onto the macro bar
+  * This may require multiple rows for the macro bar.
+* From the *Game Setup* folder
+  * Copy the **Conclude the Broadcast** macro on to the macro bar. This is used to reset/reshuffle the random tables.
+* If you intend to continue the stories of your CAllers over multiple broadcasts, copy the macros contained in the *Continuing Your Broadcast* and the *Continuing Your Broadcast - Voices in the Void* folders to the macro bar.
+
+#### From the *VOID 1680 AM Gameplay Compendium*
+
+* Copy the Journal Entries into the Journal tab for easy reference.
 
 ## Contact
 
