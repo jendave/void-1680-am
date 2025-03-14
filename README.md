@@ -38,24 +38,28 @@ https://github.com/jendave/void-1680-am/releases/latest/download/module.json
 * *VOID 1680 AM Roll Tables Compendium*
 * *VOID 1680 AM Macros Compendium*
 * *VOID 1680 AM Gameplay Compendium*
+
 ![Compendiums](https://github.com/jendave/void-1680-am/blob/main/docs/compendium-list.jpg?raw=true)
 
 #### From the *VOID 1680 AM Roll Tables Compendium*
 
 * Copy all roll tables from the *VOID 1680 AM Roll Tables* Compendium into the Rollable Tables tab.
+
 ![Roll Tables](https://github.com/jendave/void-1680-am/blob/main/docs/rolltables-list.jpg?raw=true)
 
 #### From the *VOID 1680 AM Macros Compendium*
 
 * Copy the all the macrosfrom the *VOID 1680 AM Macros* Compendium to the Macros tab.
 * Individual macros can be dragged onto the Macro bar as needed.
+
 ![Macros](https://github.com/jendave/void-1680-am/blob/main/docs/macros-list.jpg?raw=true)
 
 #### From the *VOID 1680 AM Gameplay Compendium*
 
 * Copy the all of the entries from the *VOID 1680 AM Gameplay* Compendium into the Journal tab for easy reference.
 * The *Gameplay* journal entry describes how to play the game using the macros and roll tables.
-* ![Gameplay Documents](https://github.com/jendave/void-1680-am/blob/main/docs/journal-entries-list.jpg?raw=true)
+
+![Gameplay Documents](https://github.com/jendave/void-1680-am/blob/main/docs/journal-entries-list.jpg?raw=true)
 
 ## Contact
 
