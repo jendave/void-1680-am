@@ -35,7 +35,7 @@ https://github.com/jendave/void-1680-am/releases/latest/download/module.json
 
 #### From the *VOID 1680 AM Roll Tables Compendium*
 
-* Copy all roll tables from the into the Rollable Tables tab.
+* Copy all roll tables from the Compendium into the Rollable Tables tab.
 
 #### From the *VOID 1680 AM Macros Compendium*
 
@@ -44,7 +44,7 @@ https://github.com/jendave/void-1680-am/releases/latest/download/module.json
   * This may require multiple rows for the macro bar.
 * From the *Game Setup* folder
   * Copy the **Conclude the Broadcast** macro on to the macro bar. This is used to reset/reshuffle the random tables.
-* If you intend to continue the stories of your CAllers over multiple broadcasts, copy the macros contained in the *Continuing Your Broadcast* and the *Continuing Your Broadcast - Voices in the Void* folders to the macro bar.
+* If you intend to continue the stories of your Callers over multiple broadcasts, copy the macros contained in the *Continuing Your Broadcast* and the *Continuing Your Broadcast - Voices in the Void* folders to the macro bar.
 
 #### From the *VOID 1680 AM Gameplay Compendium*
 
