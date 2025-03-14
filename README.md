@@ -35,25 +35,23 @@ https://github.com/jendave/void-1680-am/releases/latest/download/module.json
 
 #### From the *VOID 1680 AM Roll Tables Compendium*
 
-* Copy all roll tables from the Compendium into the Rollable Tables tab.
+* Copy all roll tables from the *VOID 1680 AM Roll Tables* into the Rollable Tables tab.
 
 #### From the *VOID 1680 AM Macros Compendium*
 
-* Copy the macros from the *Song Blocks* folder onto the macro bar.
-* If desired copy the macros from the *Song Block - Voices in the Void* onto the macro bar
-  * This may require multiple rows for the macro bar.
-* From the *Game Setup* folder
-  * Copy the **Conclude the Broadcast** macro on to the macro bar. This is used to reset/reshuffle the random tables.
-* If you intend to continue the stories of your Callers over multiple broadcasts, copy the macros contained in the *Continuing Your Broadcast* and the *Continuing Your Broadcast - Voices in the Void* folders to the macro bar.
+* Copy the *VOID 1680 AM Macros* folder to the Macros tab.
+* Individual macros can be dragged onto the Macro bar as needed.
 
 #### From the *VOID 1680 AM Gameplay Compendium*
 
-* Copy the Journal Entries into the Journal tab for easy reference.
+* Copy the *VOID 1680 AM Gameplay* folder into the Journal tab for easy reference.
+* The *Gameplay* journal entry describes how to play the game using the macros and roll tables.
 
 ## Contact
 
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
 * [FoundryVTT Discord Server - Module Discussion Channel](https://discord.com/channels/170995199584108546/513918036919713802) (jendave)
+* [VOID Affiliate Network Discord Server - Game Hacks Channel](https://discord.com/channels/1222986351272787990/1222986351792619687) (jendave)
 * [GitHub Repository](https://github.com/jendave/void-1680-am)
 * [Itch.io](https://jendave.itch.io/)
 
