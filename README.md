@@ -58,6 +58,7 @@ https://github.com/jendave/void-1680-am/releases/latest/download/module.json
 
 * Copy the all of the entries from the Compendium into the Journal tab for easy reference.
 * The *Gameplay* journal entry describes how to play the game using the macros and roll tables.
+* The *Caller Cards Journal* can be used to keep track of your Callers for *Continuing Your Broadcast*.
 
 ![Gameplay Documents](https://github.com/jendave/void-1680-am/blob/main/docs/journal-entries-list.jpg?raw=true)
 
