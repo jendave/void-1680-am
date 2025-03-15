@@ -43,20 +43,20 @@ https://github.com/jendave/void-1680-am/releases/latest/download/module.json
 
 #### From the *VOID 1680 AM Roll Tables Compendium*
 
-* Copy all roll tables from the *VOID 1680 AM Roll Tables* Compendium into the Rollable Tables tab.
+* Copy all roll tables from the Compendium into the Rollable Tables tab.
 
 ![Roll Tables](https://github.com/jendave/void-1680-am/blob/main/docs/rolltables-list.jpg?raw=true)
 
 #### From the *VOID 1680 AM Macros Compendium*
 
-* Copy the all the macrosfrom the *VOID 1680 AM Macros* Compendium to the Macros tab.
+* Copy the all the macros from the Compendium to the Macros tab.
 * Individual macros can be dragged onto the Macro bar as needed.
 
 ![Macros](https://github.com/jendave/void-1680-am/blob/main/docs/macros-list.jpg?raw=true)
 
 #### From the *VOID 1680 AM Gameplay Compendium*
 
-* Copy the all of the entries from the *VOID 1680 AM Gameplay* Compendium into the Journal tab for easy reference.
+* Copy the all of the entries from the Compendium into the Journal tab for easy reference.
 * The *Gameplay* journal entry describes how to play the game using the macros and roll tables.
 
 ![Gameplay Documents](https://github.com/jendave/void-1680-am/blob/main/docs/journal-entries-list.jpg?raw=true)
@@ -66,6 +66,10 @@ https://github.com/jendave/void-1680-am/releases/latest/download/module.json
 ![Beginning your Broadcast](https://github.com/jendave/void-1680-am/blob/main/docs/beginning-broadcast.jpg?raw=true)
 
 ![Concluding Your Braodcast](https://github.com/jendave/void-1680-am/blob/main/docs/concluding-broadcast.jpg?raw=true)
+
+## Bug/Issues
+
+Foundry v13 has a bug where a roll table will not roll on a secondary table. This worked in v12. This affects rolls on the "Caller ID" tables.
 
 ## Contact
 
