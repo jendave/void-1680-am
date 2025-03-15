@@ -23,7 +23,7 @@ Unofficial FoundryVTT compendiums of rolltables and macros for [VOID 1680 AM](ht
 
 ## Module Installation
 
-~~To install the module, click on `Install Module` and search for `1680` in the `Add-On Modules` tab of the Foundry VTT game setup screen. Then click on `Install`.~~
+To install the module, click on `Install Module` and search for `1680` in the `Add-On Modules` tab of the Foundry VTT game setup screen. Then click on `Install`.
 
 Or use this URL and click on `Install`:
 
