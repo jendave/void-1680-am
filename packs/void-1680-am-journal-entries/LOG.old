@@ -1,24 +1,3 @@
-2025/03/15-12:19:19.539671 313a60000 Recovering log #68
-2025/03/15-12:19:19.555562 313a60000 Level-0 table #70: started
-2025/03/15-12:19:19.558449 313a60000 Level-0 table #70: 28480 bytes OK
-2025/03/15-12:19:19.558981 313a60000 Delete type=0 #68
-2025/03/15-12:19:19.559300 313a60000 Delete type=3 #66
-2025/03/15-13:22:30.130324 30e1df000 Level-0 table #73: started
-2025/03/15-13:22:30.130452 30e1df000 Level-0 table #73: 0 bytes OK
-2025/03/15-13:22:30.130633 30e1df000 Delete type=0 #71
-2025/03/15-13:22:30.131775 30e1df000 Manual compaction at level-0 from '!folders!xHWR4cE9Bsa3UX64' @ 72057594037927935 : 1 .. '!journal.pages!rwPRdphpLG1YG2GC.SxM6MNMp3ajQuEPH' @ 0 : 0; will stop at '!journal.pages!Bkl3Xmrcs70xqsuC.tgtGJLS5E6Dqa1CN' @ 273 : 1
-2025/03/15-13:22:30.131780 30e1df000 Compacting 2@0 + 0@1 files
-2025/03/15-13:22:30.132081 30e1df000 Generated table #74@0: 8 keys, 4569 bytes
-2025/03/15-13:22:30.132087 30e1df000 Compacted 2@0 + 0@1 files => 4569 bytes
-2025/03/15-13:22:30.132137 30e1df000 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/15-13:22:30.132198 30e1df000 Delete type=2 #70
-2025/03/15-13:22:30.132407 30e1df000 Delete type=2 #67
-2025/03/15-13:22:30.133192 30e1df000 Manual compaction at level-0 from '!journal.pages!Bkl3Xmrcs70xqsuC.tgtGJLS5E6Dqa1CN' @ 273 : 1 .. '!journal.pages!rwPRdphpLG1YG2GC.SxM6MNMp3ajQuEPH' @ 0 : 0; will stop at (end)
-2025/03/15-13:22:30.133236 30e1df000 Manual compaction at level-1 from '!folders!xHWR4cE9Bsa3UX64' @ 72057594037927935 : 1 .. '!journal.pages!rwPRdphpLG1YG2GC.SxM6MNMp3ajQuEPH' @ 0 : 0; will stop at '!journal.pages!rwPRdphpLG1YG2GC.SxM6MNMp3ajQuEPH' @ 370 : 1
-2025/03/15-13:22:30.133242 30e1df000 Compacting 1@1 + 1@2 files
-2025/03/15-13:22:30.135979 30e1df000 Generated table #75@1: 9 keys, 4491 bytes
-2025/03/15-13:22:30.135997 30e1df000 Compacted 1@1 + 1@2 files => 4491 bytes
-2025/03/15-13:22:30.136066 30e1df000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/15-13:22:30.136254 30e1df000 Delete type=2 #74
-2025/03/15-13:22:30.136508 30e1df000 Delete type=2 #53
-2025/03/15-13:22:30.137791 30e1df000 Manual compaction at level-1 from '!journal.pages!rwPRdphpLG1YG2GC.SxM6MNMp3ajQuEPH' @ 370 : 1 .. '!journal.pages!rwPRdphpLG1YG2GC.SxM6MNMp3ajQuEPH' @ 0 : 0; will stop at (end)
+2025/03/15-16:09:40.208690 314263000 Recovering log #72
+2025/03/15-16:09:40.209129 314263000 Delete type=0 #72
+2025/03/15-16:09:40.209368 314263000 Delete type=3 #69
