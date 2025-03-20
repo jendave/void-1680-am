@@ -63,15 +63,13 @@ https://github.com/jendave/void-1680-am/releases/latest/download/module.json
 
 ![Gameplay Documents](https://github.com/jendave/void-1680-am/blob/main/docs/journal-entries-list.jpg?raw=true)
 
-### Gameplay Screenshots
+### Gameplay
+
+* Use the macros to step through each stage of the game.
 
 ![Beginning your Broadcast](https://github.com/jendave/void-1680-am/blob/main/docs/beginning-broadcast.jpg?raw=true)
 
-![Concluding Your Braodcast](https://github.com/jendave/void-1680-am/blob/main/docs/concluding-broadcast.jpg?raw=true)
-
-## Bug/Issues
-
-Foundry v13 has a bug where a roll table will not roll on a secondary table. This worked in v12. This affects rolls on the "Caller ID" tables.
+![Concluding Your Broadcast](https://github.com/jendave/void-1680-am/blob/main/docs/concluding-broadcast.jpg?raw=true)
 
 ## Contact
 
