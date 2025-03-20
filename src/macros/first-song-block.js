@@ -26,23 +26,37 @@ try {
 
     printMessage(title + message);
     let callerRoll = await game.tables.getName(rollTableName).draw(options = { recursive: true, rollMode: game.settings.get("core", "rollMode") });
-    if (callerRoll.results[1].name.includes("Clubs")) {
-        let items = [songBlockRoll.results[0], songBlockRoll.results[1], songBlockRoll.results[2]]
-        items.sort((a, b) => b.range[0] - a.range[0]);
 
-        printMessage("<h6>The Caller is calling about the song you played for \"" + items[0].description + "\"</h6>");
+    if (game.release.generation < 13) {
+        if (callerRoll.results[1].text.includes("Clubs")) {
+            let items = [songBlockRoll.results[0], songBlockRoll.results[1], songBlockRoll.results[2]]
+            items.sort((a, b) => b.range[0] - a.range[0]);
 
-    } else if (callerRoll.results[1].name.includes("Diamonds")) {
-        printMessage("<h6>The Caller is making a request</h6>");
-        const callerRequestTableName = "Caller Request Table"
-        await game.tables.getName(callerRequestTableName).draw(options = { recursive: true, rollMode: game.settings.get("core", "rollMode") });
+            printMessage("The Caller is calling about the song you played for \"" + items[0].description + "\"");
+
+        } else if (callerRoll.results[1].text.includes("Diamonds")) {
+            printMessage("The Caller is making a request");
+            const callerRequestTableName = "Caller Request Table"
+            await game.tables.getName(callerRequestTableName).draw(options = { recursive: true, rollMode: game.settings.get("core", "rollMode") });
+        } else {
+            printMessage("The Caller has no attachment to the music. They just want to talk to someone.")
+        }
     } else {
-        printMessage("<h6>The Caller has no attachment to the music. They just want to talk to someone.</h6>")
+        if (callerRoll.results[1].name.includes("Clubs")) {
+            let items = [songBlockRoll.results[0], songBlockRoll.results[1], songBlockRoll.results[2]]
+            items.sort((a, b) => b.range[0] - a.range[0]);
+
+            printMessage("<h6>The Caller is calling about the song you played for \"" + items[0].description + "\"</h6>");
+
+        } else if (callerRoll.results[1].name.includes("Diamonds")) {
+            printMessage("<h6>The Caller is making a request</h6>");
+            const callerRequestTableName = "Caller Request Table"
+            await game.tables.getName(callerRequestTableName).draw(options = { recursive: true, rollMode: game.settings.get("core", "rollMode") });
+        } else {
+            printMessage("<h6>The Caller has no attachment to the music. They just want to talk to someone.</h6>")
+        }
     }
 }
 catch (e) {
-    console.log("Resetting tables.");
-    const rollTableNames = ["The First Song Block: Clubs", "The Second Song Block: Diamonds", "The Third Song Block: Spades", "The Fourth Song Block: Hearts", "Caller ID", "Caller ID - Voices in the Void"];
-
-    rollTableNames.forEach(resetRollTables);
+    console.log(e);
 }
