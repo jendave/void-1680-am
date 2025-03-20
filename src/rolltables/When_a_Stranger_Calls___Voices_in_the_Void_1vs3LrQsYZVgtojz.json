@@ -1,0 +1,22 @@
+{
+  "name": "When a Stranger Calls - Voices in the Void",
+  "sorting": "m",
+  "folder": "XfLAIqZUtC97qySc",
+  "type": "RollTable",
+  "_id": "1vs3LrQsYZVgtojz",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638469679,
+    "modifiedTime": 1741671691401,
+    "lastModifiedBy": "znh1hBASB4u73mmz"
+  },
+  "_key": "!folders!1vs3LrQsYZVgtojz"
+}

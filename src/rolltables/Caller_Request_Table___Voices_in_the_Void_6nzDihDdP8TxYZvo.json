@@ -1,0 +1,186 @@
+{
+  "name": "Caller Request Table - Voices in the Void",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "14svUQzI7dTBmx9t",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/musical-notes.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Something nostalgic and bittersweet, a melancholy dream.",
+      "name": "",
+      "_key": "!tables.results!6nzDihDdP8TxYZvo.14svUQzI7dTBmx9t"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "vM5VGtNaO3pSGkiU",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/musical-notes.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "An old standard - a cliche - you haven't listen to in years.",
+      "name": "",
+      "_key": "!tables.results!6nzDihDdP8TxYZvo.vM5VGtNaO3pSGkiU"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "b9OYVEbJGDoWMnt8",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/musical-notes.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Something strange, unlike the band's usual fare.",
+      "name": "",
+      "_key": "!tables.results!6nzDihDdP8TxYZvo.b9OYVEbJGDoWMnt8"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "msPTRMAeRlt4PvBm",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/musical-notes.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A dirge. The end of something.",
+      "name": "",
+      "_key": "!tables.results!6nzDihDdP8TxYZvo.msPTRMAeRlt4PvBm"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "pgwVRNJRtzZRdw76",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/musical-notes.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A song you associate with someone you no longer talk to.",
+      "name": "",
+      "_key": "!tables.results!6nzDihDdP8TxYZvo.pgwVRNJRtzZRdw76"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "RtwncaDmMcbZQzry",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/musical-notes.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Something cool, and dark - something to sink down into.",
+      "name": "",
+      "_key": "!tables.results!6nzDihDdP8TxYZvo.RtwncaDmMcbZQzry"
+    }
+  ],
+  "_id": "6nzDihDdP8TxYZvo",
+  "img": "modules/void-1680-am/assets/icons/musical-notes.svg",
+  "description": "<p>The Caller is calling in to make a request. It’s up to you if you honor their request. This song should be <em>outside your comfort zone</em>, but it can still be on-theme for the night.</p>",
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "1vs3LrQsYZVgtojz",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "zlK60vHSGoQpBLM1": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638469703,
+    "modifiedTime": 1741898122076,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "_key": "!tables!6nzDihDdP8TxYZvo"
+}

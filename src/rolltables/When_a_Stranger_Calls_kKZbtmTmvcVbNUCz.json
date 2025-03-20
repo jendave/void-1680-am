@@ -1,0 +1,22 @@
+{
+  "name": "When a Stranger Calls",
+  "type": "RollTable",
+  "sorting": "m",
+  "_id": "kKZbtmTmvcVbNUCz",
+  "description": "",
+  "folder": "XfLAIqZUtC97qySc",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638467382,
+    "modifiedTime": 1741675303312,
+    "lastModifiedBy": "LNdOnjOqvcwvS2UG"
+  },
+  "_key": "!folders!kKZbtmTmvcVbNUCz"
+}

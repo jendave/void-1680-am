@@ -119,3 +119,11 @@ jobs:
           tag: ${{ github.event.release.tag_name }}
           body: ${{ github.event.release.body }}
 ```
+
+## CLI Tips
+
+fvtt configure set dataPath '/Users/<home>/mygit/foundrydata'
+fvtt configure set installPath "/Applications/Foundry Virtual Tabletop.app"
+fvtt package workon "void-1680-am" --type "Module"
+fvtt package unpack -n void-1680-am-rolltables
+fvtt package pack -n void-1680-am-rolltables

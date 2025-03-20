@@ -1,0 +1,354 @@
+{
+  "name": "Diamonds (Agitated, worried)",
+  "formula": "1d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "XOvm0maPk2HapXt6",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167809161,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Romance, on the rocks",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.XOvm0maPk2HapXt6"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "Mi415XEAlrwcJBp1",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167813491,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Romance, ending",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.Mi415XEAlrwcJBp1"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "mDPO51EY37nfzKJa",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167817422,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Friendship, in a fight",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.mDPO51EY37nfzKJa"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "dPL8omfAQtIUUakz",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167821377,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Friendship, considering a betrayal",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.dPL8omfAQtIUUakz"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "aVJvjLYJ5q0dUFYN",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167824973,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Family, deepening rivalries",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.aVJvjLYJ5q0dUFYN"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "RYHi9q0F0ss8hqGJ",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167829729,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Family, an unpleasant revelation",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.RYHi9q0F0ss8hqGJ"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "XJaeOnUuA1jkE7Qm",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167833426,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Money, not enough",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.XJaeOnUuA1jkE7Qm"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "cHofgIxB1kNfK4pv",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167837232,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Money, terrible windfall",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.cHofgIxB1kNfK4pv"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "xUxHHupOLirKVjLg",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167841195,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The Future, uncertain",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.xUxHHupOLirKVjLg"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "2qo0ysxCLGUc6AJX",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167845129,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The Future, all too clear",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.2qo0ysxCLGUc6AJX"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "CgAAW2e1uFpM7kfB",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167850353,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The Past, forever out of reach",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.CgAAW2e1uFpM7kfB"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "pQ92R557Wj0rHvG8",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167854431,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The Past, all too present",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!KkIaWZQYMemDqgbB.pQ92R557Wj0rHvG8"
+    }
+  ],
+  "folder": "cot4uzcJq7mm8GN3",
+  "sort": 0,
+  "_id": "KkIaWZQYMemDqgbB",
+  "img": "modules/void-1680-am/assets/icons/diamonds.svg",
+  "description": "<p>Based on the Caller’s card suit, determine the subject matter they called to talk about. The suits suggest moods – which one are they in? If their call is connected to a song (either one you played or one they requested), see how these things dovetail – why did that specific song trigger this call on this topic? How long did the call last? Did they talk with you, or at you? Have they called before? Are they a fan of your show, or just a stranger? Did they remind you of anyone?</p>",
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0,
+    "zlK60vHSGoQpBLM1": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638467403,
+    "modifiedTime": 1742167899222,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "_key": "!tables!KkIaWZQYMemDqgbB"
+}

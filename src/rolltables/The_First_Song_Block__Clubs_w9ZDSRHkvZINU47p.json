@@ -1,0 +1,264 @@
+{
+  "name": "The First Song Block: Clubs",
+  "formula": "1d9+1",
+  "results": [
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "09KHxNF4SLRIPTln",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-2-clubs.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The new obsession - the thing you listen to every day right now. Why do you think it's resonating?",
+      "name": "",
+      "_key": "!tables.results!w9ZDSRHkvZINU47p.09KHxNF4SLRIPTln"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "n47hg1iXyKn4oddc",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-3-clubs.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "An offhand suggestion that became a favorite song. Who or what recommended it to you?",
+      "name": "",
+      "_key": "!tables.results!w9ZDSRHkvZINU47p.n47hg1iXyKn4oddc"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "1HhImg9Et5MnlBSZ",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-4-clubs.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The first song you think of when you think of someone important to you. Who came to mind? Why that song?",
+      "name": "",
+      "_key": "!tables.results!w9ZDSRHkvZINU47p.1HhImg9Et5MnlBSZ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "jeJ0EjBZHa2JMQlK",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-5-clubs.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The one you sing along to every time you hear it. What's your favorite bit?",
+      "name": "",
+      "_key": "!tables.results!w9ZDSRHkvZINU47p.jeJ0EjBZHa2JMQlK"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "WgL8o8zFxVvdfrGn",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-6-clubs.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A song about a dream, a goal, or an aspiration - realistic or whimsical. What does it make you aspire to be?",
+      "name": "",
+      "_key": "!tables.results!w9ZDSRHkvZINU47p.WgL8o8zFxVvdfrGn"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "VBjSXpFukc4DkhuN",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-7-clubs.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Something you sing along to with a friend. How did you both come to love it?",
+      "name": "",
+      "_key": "!tables.results!w9ZDSRHkvZINU47p.VBjSXpFukc4DkhuN"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "Gvckhplu3uSQe0cX",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-8-clubs.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The drum beat that always has you tapping your foot and drumming on your desk. What's your favorite bit?",
+      "name": "",
+      "_key": "!tables.results!w9ZDSRHkvZINU47p.Gvckhplu3uSQe0cX"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "6CMq9HgKywXuLXDw",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-9-clubs.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "You're ready to take a walk or go running. What song sets the pace for you?",
+      "name": "",
+      "_key": "!tables.results!w9ZDSRHkvZINU47p.6CMq9HgKywXuLXDw"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "la61QRtX8izYGYmf",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-10-clubs.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The sleaziest song you love. Is it liberating, or a dirty secret?",
+      "name": "",
+      "_key": "!tables.results!w9ZDSRHkvZINU47p.la61QRtX8izYGYmf"
+    }
+  ],
+  "_id": "w9ZDSRHkvZINU47p",
+  "img": "modules/void-1680-am/assets/icons/clubs.svg",
+  "description": "<p>These songs are your thesis statement: a declaration of your show’s tone and depth. They are also typically (but not necessarily) higher energy.</p>",
+  "replacement": false,
+  "displayRoll": false,
+  "folder": "l4UaLon0edjIZq2p",
+  "sort": 50000,
+  "ownership": {
+    "default": 0,
+    "zlK60vHSGoQpBLM1": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638464970,
+    "modifiedTime": 1741679737054,
+    "lastModifiedBy": "LNdOnjOqvcwvS2UG",
+    "exportSource": null
+  },
+  "_key": "!tables!w9ZDSRHkvZINU47p"
+}

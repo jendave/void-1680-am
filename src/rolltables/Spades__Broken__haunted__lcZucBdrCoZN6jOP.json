@@ -1,0 +1,354 @@
+{
+  "name": "Spades (Broken, haunted)",
+  "formula": "1d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "g6ExroQe3pXqhHNl",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168949822,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Changes Within, overwhelming",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.g6ExroQe3pXqhHNl"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "8ZPFLgS75NhoGcst",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168953051,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Changes Within, draining",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.8ZPFLgS75NhoGcst"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "NMSY5nHErQfgVOog",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168956666,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Isolation, deserving",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.NMSY5nHErQfgVOog"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "IPLxZbLHpwJex38b",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168959941,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Isolation, undeserving",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.IPLxZbLHpwJex38b"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "U3OCzU0Hsut3aBpT",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168963208,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Emptiness, feared",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.U3OCzU0Hsut3aBpT"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Dg1JexoPlMtigobk",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168966869,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Emptiness, welcomed",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.Dg1JexoPlMtigobk"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "K0yWeigdc5dyLzWq",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168970167,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Betrayal, sudden",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.K0yWeigdc5dyLzWq"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "CPamj7mZapCwrPQR",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168973620,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Betrayal, drawn out",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.CPamj7mZapCwrPQR"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "MZMRXUIhVuFG2Zvj",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168977170,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Revelation, terrifying",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.MZMRXUIhVuFG2Zvj"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "FlQ37XgZYhrSrREz",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168980922,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Revelation, disillusioning",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.FlQ37XgZYhrSrREz"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "kzadtKLAqmJPmjm3",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168984362,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Whispers, from the living",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.kzadtKLAqmJPmjm3"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "h3ZTrlP6QjATxVfq",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168987972,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Whispers, from the dead",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!lcZucBdrCoZN6jOP.h3ZTrlP6QjATxVfq"
+    }
+  ],
+  "folder": "FU4hnHVKcoV6My8o",
+  "sort": 300000,
+  "img": "modules/void-1680-am/assets/icons/spades.svg",
+  "description": "<p>Based on the Caller’s card suit, roll a 1d12 to determine the subject matter they called to talk about. The suits suggest moods – which one are they in? If their call is connected to a song (either one you played or one they requested), see how these things dovetail – why did that specific song trigger this call on this topic? How long did the call last? Did they talk with you, or at you? Have they called before? Are they a fan of your show, or just a stranger? Did they remind you of anyone?</p>",
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0,
+    "zlK60vHSGoQpBLM1": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "RollTable.I8cVeN3zLjEdiPWe",
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638469703,
+    "modifiedTime": 1741672390854,
+    "lastModifiedBy": "znh1hBASB4u73mmz",
+    "exportSource": null
+  },
+  "_id": "lcZucBdrCoZN6jOP",
+  "_key": "!tables!lcZucBdrCoZN6jOP"
+}

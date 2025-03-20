@@ -1,0 +1,186 @@
+{
+  "name": "Second Call - Voices in the Void",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "4FjEIWBMmIejTOM0",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Things are simmering. Why does the Caller feel cautiously optimistic?",
+      "name": "",
+      "_key": "!tables.results!QWMjEiCgX84IpXpL.4FjEIWBMmIejTOM0"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "ETAvE3AlGEsLLBau",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Things are simmering. Why are they certain this is the calm before the storm?",
+      "name": "",
+      "_key": "!tables.results!QWMjEiCgX84IpXpL.ETAvE3AlGEsLLBau"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "L9krWBeSJteuJ009",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The Caller uncovered a dangerous secret. Do they share it with you?",
+      "name": "",
+      "_key": "!tables.results!QWMjEiCgX84IpXpL.L9krWBeSJteuJ009"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "tk0mM34I2zra9pBJ",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The Caller has been exposed in some way. How does this change their situation?",
+      "name": "",
+      "_key": "!tables.results!QWMjEiCgX84IpXpL.tk0mM34I2zra9pBJ"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "23eMurveO8vhRata",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The Caller learns something that sheds new light. What do they think now?",
+      "name": "",
+      "_key": "!tables.results!QWMjEiCgX84IpXpL.23eMurveO8vhRata"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "EvtwdBvrxUxGsOmY",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Someone... strange... contacts the Caller. What is so unsettling about them? What do they know?",
+      "name": "",
+      "_key": "!tables.results!QWMjEiCgX84IpXpL.EvtwdBvrxUxGsOmY"
+    }
+  ],
+  "_id": "QWMjEiCgX84IpXpL",
+  "img": "modules/void-1680-am/assets/icons/inverted-dice-2.svg",
+  "description": "<p>On a Caller’s second call, generate a follow-up to the previous call – a twist or turn in their story.</p>",
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "OETDhMywyXsukh5G",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "zlK60vHSGoQpBLM1": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638469703,
+    "modifiedTime": 1741919253424,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "_key": "!tables!QWMjEiCgX84IpXpL"
+}

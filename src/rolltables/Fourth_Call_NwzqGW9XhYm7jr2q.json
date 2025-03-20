@@ -1,0 +1,186 @@
+{
+  "name": "Fourth Call",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "T23LLsK0wh6ORi8P",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Things ended abruptly; much was learned. What is the Caller’s takeaway?",
+      "name": "",
+      "_key": "!tables.results!NwzqGW9XhYm7jr2q.T23LLsK0wh6ORi8P"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "jVlze7YmMQHBWdX4",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Things ended abruptly; much still confuses the Caller. What can’t they let go?",
+      "name": "",
+      "_key": "!tables.results!NwzqGW9XhYm7jr2q.jVlze7YmMQHBWdX4"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "EGT8FIxlMa4pnfeC",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The Caller got what they wanted. Why aren’t they happy about it?",
+      "name": "",
+      "_key": "!tables.results!NwzqGW9XhYm7jr2q.EGT8FIxlMa4pnfeC"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "qG9SirEZOXhWdnVA",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The Caller lost everything. Why are they so strangely relieved?",
+      "name": "",
+      "_key": "!tables.results!NwzqGW9XhYm7jr2q.qG9SirEZOXhWdnVA"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "t1pd5XggS9kVPUSx",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The Caller is cryptic, and confusing. What do they say that sticks with you?",
+      "name": "",
+      "_key": "!tables.results!NwzqGW9XhYm7jr2q.t1pd5XggS9kVPUSx"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ZyMmJjh8VnjEDJIN",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The Caller is wistful and vague. What is the last thing they say to you?",
+      "name": "",
+      "_key": "!tables.results!NwzqGW9XhYm7jr2q.ZyMmJjh8VnjEDJIN"
+    }
+  ],
+  "_id": "NwzqGW9XhYm7jr2q",
+  "img": "modules/void-1680-am/assets/icons/inverted-dice-4.svg",
+  "description": "<p>On a Caller’s fourth call, generate a follow-up to the previous call – a twist or turn in their story.</p>",
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "wU0cgpP0XLL5aDAg",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "zlK60vHSGoQpBLM1": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638467403,
+    "modifiedTime": 1741919453551,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "_key": "!tables!NwzqGW9XhYm7jr2q"
+}

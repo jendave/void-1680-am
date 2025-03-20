@@ -1,0 +1,264 @@
+{
+  "name": "The Third Song Block: Spades",
+  "formula": "1d9+1",
+  "results": [
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "q8B0ugodah4aLiBW",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-2-spades.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A song that always makes you tear up. What is it that gets you?",
+      "name": "",
+      "_key": "!tables.results!c81oMppnESx1zsNu.q8B0ugodah4aLiBW"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "LeDutVpQ95n1U2s8",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-3-spades.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "One of your “our” songs, something you shared with someone close to you. Who was it? Why this song?",
+      "name": "",
+      "_key": "!tables.results!c81oMppnESx1zsNu.LeDutVpQ95n1U2s8"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "znuf6Ois8NzvtxWi",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-4-spades.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The first song you think about when you think of summers as a kid. What does it feel like to listen to now?",
+      "name": "",
+      "_key": "!tables.results!c81oMppnESx1zsNu.znuf6Ois8NzvtxWi"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "4QBvSSi1StveG1Qu",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-5-spades.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The first song you think about when you think of winters as a kid. Does winter still feel this way to you?",
+      "name": "",
+      "_key": "!tables.results!c81oMppnESx1zsNu.4QBvSSi1StveG1Qu"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "WqYvOuk1ERoVWMf3",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-6-spades.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "It’s summer. It’s late. You have all the windows open and you’re restless. What do you put on?",
+      "name": "",
+      "_key": "!tables.results!c81oMppnESx1zsNu.WqYvOuk1ERoVWMf3"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "TgPaN9XbK8WXOEli",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-7-spades.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "You’re driving late at night down a lonesome highway. What song are you putting on? Does it make you feel less alone, or more?",
+      "name": "",
+      "_key": "!tables.results!c81oMppnESx1zsNu.TgPaN9XbK8WXOEli"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "zl1vfxgYP8exmYUN",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-8-spades.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A song about something ending. Is it bitter or bittersweet to you?",
+      "name": "",
+      "_key": "!tables.results!c81oMppnESx1zsNu.zl1vfxgYP8exmYUN"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "BN95zOLQ8mPKQPIu",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-9-spades.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A song from when your parents were young. How did you discover it?",
+      "name": "",
+      "_key": "!tables.results!c81oMppnESx1zsNu.BN95zOLQ8mPKQPIu"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "sqeKoPWugbRd8nul",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/card-10-spades.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "The saddest song that makes you smile. What about it is so endearing?",
+      "name": "",
+      "_key": "!tables.results!c81oMppnESx1zsNu.sqeKoPWugbRd8nul"
+    }
+  ],
+  "_id": "c81oMppnESx1zsNu",
+  "img": "modules/void-1680-am/assets/icons/spades.svg",
+  "description": "<p>The third song block is often a bit of a comedown – a chance to enter a more contemplative state or, if you prefer, a hangover. As always, follow your instincts and the momentum of your playlist to this point to help determine the tempo and tone of the songs you choose here.</p>",
+  "replacement": false,
+  "displayRoll": false,
+  "folder": "l4UaLon0edjIZq2p",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "zlK60vHSGoQpBLM1": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638464970,
+    "modifiedTime": 1741735973135,
+    "lastModifiedBy": "LNdOnjOqvcwvS2UG",
+    "exportSource": null
+  },
+  "_key": "!tables!c81oMppnESx1zsNu"
+}

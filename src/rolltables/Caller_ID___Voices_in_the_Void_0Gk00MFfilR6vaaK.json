@@ -1,0 +1,878 @@
+{
+  "name": "Caller ID - Voices in the Void",
+  "img": "modules/void-1680-am/assets/icons/ages.svg",
+  "description": "<p>To begin the sketch of your<span class=\"Apple-converted-space\"> Caller, use this table.</span></p>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "eGCT36NJN6S65bK9",
+      "img": "modules/void-1680-am/assets/icons/card-jack-clubs.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A young Caller, on the cusp of adulthood.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.eGCT36NJN6S65bK9"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "lh7bWf4P81XavzUi",
+      "img": "modules/void-1680-am/assets/icons/card-queen-clubs.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "An established adult, somewhere in their 20s to 40s.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.lh7bWf4P81XavzUi"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "y46fzkjwPXgPwG5j",
+      "img": "modules/void-1680-am/assets/icons/card-king-clubs.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "An elder, middle aged or older.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.y46fzkjwPXgPwG5j"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "cjCzT4OojrWm1q8q",
+      "img": "modules/void-1680-am/assets/icons/card-ace-clubs.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Ambiguous age – perhaps deliberately so. Voice modulators are easy to come by in this day and age.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.cjCzT4OojrWm1q8q"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "oFziS8VjT07xBOWC",
+      "img": "modules/void-1680-am/assets/icons/card-jack-diamonds.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A young Caller, on the cusp of adulthood.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.oFziS8VjT07xBOWC"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "hjOUZ35gPxJs5ya9",
+      "img": "modules/void-1680-am/assets/icons/card-queen-diamonds.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "An established adult, somewhere in their 20s to 40s.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.hjOUZ35gPxJs5ya9"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "0bjdG6fbMGX0Ez2v",
+      "img": "modules/void-1680-am/assets/icons/card-king-diamonds.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "An elder, middle aged or older.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.0bjdG6fbMGX0Ez2v"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "SR75O3v1kXH8TMnp",
+      "img": "modules/void-1680-am/assets/icons/card-ace-diamonds.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Ambiguous age – perhaps deliberately so. Voice modulators are easy to come by in this day and age.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.SR75O3v1kXH8TMnp"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "KsPxi9NdK8ow2wCv",
+      "img": "modules/void-1680-am/assets/icons/card-jack-spades.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A young Caller, on the cusp of adulthood.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.KsPxi9NdK8ow2wCv"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "AlC7cN0wQB1RoHKS",
+      "img": "modules/void-1680-am/assets/icons/card-queen-spades.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "An established adult, somewhere in their 20s to 40s.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.AlC7cN0wQB1RoHKS"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "rY5m9NR7VuFatyVN",
+      "img": "modules/void-1680-am/assets/icons/card-king-spades.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "An elder, middle aged or older.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.rY5m9NR7VuFatyVN"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "k5eTm0ZMV6dQ10Jr",
+      "img": "modules/void-1680-am/assets/icons/card-ace-spades.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Ambiguous age – perhaps deliberately so. Voice modulators are easy to come by in this day and age.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.k5eTm0ZMV6dQ10Jr"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "QTbabXPof0EdtFln",
+      "img": "modules/void-1680-am/assets/icons/card-jack-hearts.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A young Caller, on the cusp of adulthood.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.QTbabXPof0EdtFln"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "ZnmckxQlg1VARunG",
+      "img": "modules/void-1680-am/assets/icons/card-queen-hearts.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "An established adult, somewhere in their 20s to 40s.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.ZnmckxQlg1VARunG"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "zS15UW3e7kgXOmpF",
+      "img": "modules/void-1680-am/assets/icons/card-king-hearts.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "An elder, middle aged or older.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.zS15UW3e7kgXOmpF"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "jjmYzNzPOIRleUXM",
+      "img": "modules/void-1680-am/assets/icons/card-ace-hearts.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Ambiguous age – perhaps deliberately so. Voice modulators are easy to come by in this day and age.",
+      "name": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.jjmYzNzPOIRleUXM"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "IWFtIBrHF3sAKxeC",
+      "img": "modules/void-1680-am/assets/icons/clubs.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Clubs (Hushed, worried)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.0pzO99khMfml8W90",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.IWFtIBrHF3sAKxeC"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "DatXUZS3fudKYp5w",
+      "img": "modules/void-1680-am/assets/icons/clubs.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Clubs (Hushed, worried)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.0pzO99khMfml8W90",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.DatXUZS3fudKYp5w"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "FTfjNob05mux84B3",
+      "img": "modules/void-1680-am/assets/icons/clubs.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Clubs (Hushed, worried)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.0pzO99khMfml8W90",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.FTfjNob05mux84B3"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "doXEiuSTOTTj56Xl",
+      "img": "modules/void-1680-am/assets/icons/clubs.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Clubs (Hushed, worried)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.0pzO99khMfml8W90",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.doXEiuSTOTTj56Xl"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "fAQmMHhfovgOOhOa",
+      "img": "modules/void-1680-am/assets/icons/diamonds.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Diamonds (Agitated, paranoid)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.xTl3rN4FrcZLgE4p",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.fAQmMHhfovgOOhOa"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "0YVHYTXcVP0xhD7h",
+      "img": "modules/void-1680-am/assets/icons/diamonds.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Diamonds (Agitated, paranoid)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.xTl3rN4FrcZLgE4p",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.0YVHYTXcVP0xhD7h"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "p3ynHEgD6iP38aIP",
+      "img": "modules/void-1680-am/assets/icons/diamonds.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Diamonds (Agitated, paranoid)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.xTl3rN4FrcZLgE4p",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.p3ynHEgD6iP38aIP"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "P4ZK0pkwtuX1ugDs",
+      "img": "modules/void-1680-am/assets/icons/diamonds.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Diamonds (Agitated, paranoid)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.xTl3rN4FrcZLgE4p",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.P4ZK0pkwtuX1ugDs"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "KKSxgcQFGUiBSaHv",
+      "img": "modules/void-1680-am/assets/icons/spades.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spades (Broken, haunted)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.lcZucBdrCoZN6jOP",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.KKSxgcQFGUiBSaHv"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "hS2rk4QA430X8HTV",
+      "img": "modules/void-1680-am/assets/icons/spades.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spades (Broken, haunted)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.lcZucBdrCoZN6jOP",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.hS2rk4QA430X8HTV"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "86tWbeJDPkdCG5sr",
+      "img": "modules/void-1680-am/assets/icons/spades.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spades (Broken, haunted)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.lcZucBdrCoZN6jOP",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.86tWbeJDPkdCG5sr"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "3xeQb4d4wIY8xKXt",
+      "img": "modules/void-1680-am/assets/icons/spades.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Spades (Broken, haunted)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.lcZucBdrCoZN6jOP",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.3xeQb4d4wIY8xKXt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "q8Q6YbW8j574exOP",
+      "img": "modules/void-1680-am/assets/icons/hearts.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hearts (Intense, desperate)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.piAkaynLzlCMQBor",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.q8Q6YbW8j574exOP"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "Wh5sO2tYvBxtpH64",
+      "img": "modules/void-1680-am/assets/icons/hearts.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hearts (Intense, desperate)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.piAkaynLzlCMQBor",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.Wh5sO2tYvBxtpH64"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "puBD7Li8cLrp9oqL",
+      "img": "modules/void-1680-am/assets/icons/hearts.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hearts (Intense, desperate)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.piAkaynLzlCMQBor",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.puBD7Li8cLrp9oqL"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "t7E3AVUC94YzCNMc",
+      "img": "modules/void-1680-am/assets/icons/hearts.svg",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.337",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742191807926,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hearts (Intense, desperate)",
+      "documentUuid": "Compendium.void-1680-am.void1680amrolltables.RollTable.piAkaynLzlCMQBor",
+      "description": "",
+      "_key": "!tables.results!0Gk00MFfilR6vaaK.t7E3AVUC94YzCNMc"
+    }
+  ],
+  "replacement": false,
+  "displayRoll": false,
+  "folder": "1vs3LrQsYZVgtojz",
+  "ownership": {
+    "default": 0,
+    "LNdOnjOqvcwvS2UG": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741677632604,
+    "modifiedTime": 1741814473371,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "formula": "1d16",
+  "_id": "0Gk00MFfilR6vaaK",
+  "sort": 0,
+  "_key": "!tables!0Gk00MFfilR6vaaK"
+}

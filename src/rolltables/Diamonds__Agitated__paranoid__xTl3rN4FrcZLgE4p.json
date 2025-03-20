@@ -1,0 +1,354 @@
+{
+  "name": "Diamonds (Agitated, paranoid)",
+  "formula": "1d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "XOvm0maPk2HapXt6",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168885141,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Violent Changes, on the skin",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.XOvm0maPk2HapXt6"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "Mi415XEAlrwcJBp1",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168888309,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Violent Changes, deep inside",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.Mi415XEAlrwcJBp1"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "mDPO51EY37nfzKJa",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168891955,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Isolation, desired",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.mDPO51EY37nfzKJa"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "dPL8omfAQtIUUakz",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168895369,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Isolation, inflicted",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.dPL8omfAQtIUUakz"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "aVJvjLYJ5q0dUFYN",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168898728,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Conspiracy, hatched",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.aVJvjLYJ5q0dUFYN"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "RYHi9q0F0ss8hqGJ",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168901986,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Conspiracy, called out",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.RYHi9q0F0ss8hqGJ"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "XJaeOnUuA1jkE7Qm",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168907248,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Betrayal, relishing",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.XJaeOnUuA1jkE7Qm"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "cHofgIxB1kNfK4pv",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168911132,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Betrayal, despising",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.cHofgIxB1kNfK4pv"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "xUxHHupOLirKVjLg",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168914798,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Sin, pernicious",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.xUxHHupOLirKVjLg"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "2qo0ysxCLGUc6AJX",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168918244,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Sin, cleansed",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.2qo0ysxCLGUc6AJX"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "CgAAW2e1uFpM7kfB",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168921955,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "People in Town, foolish",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.CgAAW2e1uFpM7kfB"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "pQ92R557Wj0rHvG8",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168925910,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "People in Town, craven",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!xTl3rN4FrcZLgE4p.pQ92R557Wj0rHvG8"
+    }
+  ],
+  "folder": "FU4hnHVKcoV6My8o",
+  "sort": 200000,
+  "img": "modules/void-1680-am/assets/icons/diamonds.svg",
+  "description": "<p>Based on the Caller’s card suit, roll a 1d12 to determine the subject matter they called to talk about. The suits suggest moods – which one are they in? If their call is connected to a song (either one you played or one they requested), see how these things dovetail – why did that specific song trigger this call on this topic? How long did the call last? Did they talk with you, or at you? Have they called before? Are they a fan of your show, or just a stranger? Did they remind you of anyone?</p>",
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0,
+    "zlK60vHSGoQpBLM1": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "RollTable.KkIaWZQYMemDqgbB",
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638469703,
+    "modifiedTime": 1741672386489,
+    "lastModifiedBy": "znh1hBASB4u73mmz",
+    "exportSource": null
+  },
+  "_id": "xTl3rN4FrcZLgE4p",
+  "_key": "!tables!xTl3rN4FrcZLgE4p"
+}

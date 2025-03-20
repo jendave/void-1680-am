@@ -1,0 +1,186 @@
+{
+  "name": "Second Call",
+  "formula": "1d6",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "VQE6txdIlRgKfWW3",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Things have calmed. What is the Caller optimistic about?",
+      "name": "",
+      "_key": "!tables.results!ZNjRmL5xKAly3fCS.VQE6txdIlRgKfWW3"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "VKlu5jzvPCTR9Csf",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Things have calmed, the Caller is certain something will break the fragile peace.",
+      "name": "",
+      "_key": "!tables.results!ZNjRmL5xKAly3fCS.VKlu5jzvPCTR9Csf"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "MgF15HSVH9cDQTFI",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Things have intensified, possibly for the better.",
+      "name": "",
+      "_key": "!tables.results!ZNjRmL5xKAly3fCS.MgF15HSVH9cDQTFI"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "gAeLhFZsYykL1qmd",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Things have intensified, definitely for the worse.",
+      "name": "",
+      "_key": "!tables.results!ZNjRmL5xKAly3fCS.gAeLhFZsYykL1qmd"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "iFUNbPTXjmdqQKFM",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Fortunes are reversed; where does this leave the Caller?",
+      "name": "",
+      "_key": "!tables.results!ZNjRmL5xKAly3fCS.iFUNbPTXjmdqQKFM"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "nbCn1aH5v5rmwnkX",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/phone.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A third party has intervened, upsetting things. Who is this person to the Caller?",
+      "name": "",
+      "_key": "!tables.results!ZNjRmL5xKAly3fCS.nbCn1aH5v5rmwnkX"
+    }
+  ],
+  "_id": "ZNjRmL5xKAly3fCS",
+  "img": "modules/void-1680-am/assets/icons/inverted-dice-2.svg",
+  "description": "<p class=\"p1\">On a Caller’s second call, generate a follow-up to the previous call – a twist or turn in their story.</p>",
+  "replacement": true,
+  "displayRoll": false,
+  "folder": "wU0cgpP0XLL5aDAg",
+  "sort": 50000,
+  "ownership": {
+    "default": 0,
+    "zlK60vHSGoQpBLM1": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638467403,
+    "modifiedTime": 1741919442363,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "_key": "!tables!ZNjRmL5xKAly3fCS"
+}

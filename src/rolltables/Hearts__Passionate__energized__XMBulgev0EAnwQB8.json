@@ -1,0 +1,354 @@
+{
+  "name": "Hearts (Passionate, energized)",
+  "formula": "1d12",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "_id": "hZvxZdSehHbLy4mC",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167982435,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Romance, full of potential",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.hZvxZdSehHbLy4mC"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "_id": "E6xZHPR3gyuxMFYl",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167985473,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Romance, rife with jealousy",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.E6xZHPR3gyuxMFYl"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "_id": "739AbmvgQVxVAFcd",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167989751,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Friendship, shared secret",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.739AbmvgQVxVAFcd"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "_id": "0YQ3d3OOY3VJrnYY",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167993143,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Friendship, shared conspiracy",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.0YQ3d3OOY3VJrnYY"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "_id": "Upq1FxF9XVA3TyHB",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167996132,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Family, growing by one",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.Upq1FxF9XVA3TyHB"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "_id": "X5iDay4nMfXkYmhp",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742167999370,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Family, reduced by one",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.X5iDay4nMfXkYmhp"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "_id": "Ly3WXY9iWC4t2PKx",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168002555,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Money, career prospects",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.Ly3WXY9iWC4t2PKx"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "_id": "OihhxdibGguK90kD",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168005668,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Money, a permanent change",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.OihhxdibGguK90kD"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "_id": "tbaVOwrQYoSZD2y3",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168009247,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Infatuation, innocent",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.tbaVOwrQYoSZD2y3"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "_id": "4iUigoYTG2RYCPI0",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168014578,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "Infatuation, scandalous",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.4iUigoYTG2RYCPI0"
+    },
+    {
+      "range": [
+        11,
+        11
+      ],
+      "_id": "VelRsKGf5hVdqlKc",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168018823,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A Decision, quotidian",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.VelRsKGf5hVdqlKc"
+    },
+    {
+      "range": [
+        12,
+        12
+      ],
+      "_id": "sr1lHOFF5yfN0itd",
+      "type": "text",
+      "img": "modules/void-1680-am/assets/icons/talk.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1742168023179,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "text": "A Decision, life-changing",
+      "name": "",
+      "documentUuid": null,
+      "_key": "!tables.results!XMBulgev0EAnwQB8.sr1lHOFF5yfN0itd"
+    }
+  ],
+  "folder": "cot4uzcJq7mm8GN3",
+  "sort": 25000,
+  "_id": "XMBulgev0EAnwQB8",
+  "img": "modules/void-1680-am/assets/icons/hearts.svg",
+  "description": "<p>Based on the Caller’s card suit, determine the subject matter they called to talk about. The suits suggest moods – which one are they in? If their call is connected to a song (either one you played or one they requested), see how these things dovetail – why did that specific song trigger this call on this topic? How long did the call last? Did they talk with you, or at you? Have they called before? Are they a fan of your show, or just a stranger? Did they remind you of anyone?</p>",
+  "replacement": true,
+  "displayRoll": false,
+  "ownership": {
+    "default": 0,
+    "zlK60vHSGoQpBLM1": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638467403,
+    "modifiedTime": 1742167915151,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "_key": "!tables!XMBulgev0EAnwQB8"
+}

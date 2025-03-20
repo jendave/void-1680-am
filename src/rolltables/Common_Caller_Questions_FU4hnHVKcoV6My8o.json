@@ -1,0 +1,22 @@
+{
+  "name": "Common Caller Questions",
+  "sorting": "m",
+  "folder": "1vs3LrQsYZVgtojz",
+  "type": "RollTable",
+  "_id": "FU4hnHVKcoV6My8o",
+  "description": "",
+  "sort": 150000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741638469679,
+    "modifiedTime": 1741638469679,
+    "lastModifiedBy": "zlK60vHSGoQpBLM1"
+  },
+  "_key": "!folders!FU4hnHVKcoV6My8o"
+}
