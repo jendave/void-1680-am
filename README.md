@@ -69,7 +69,7 @@ https://github.com/jendave/void-1680-am/releases/latest/download/module.json
 
 ![Beginning your Broadcast](https://github.com/jendave/void-1680-am/blob/main/docs/beginning-broadcast.jpg?raw=true)
 
-![Concluding Your Braodcast](https://github.com/jendave/void-1680-am/blob/main/docs/concluding-broadcast.jpg?raw=true)
+![Concluding Your Broadcast](https://github.com/jendave/void-1680-am/blob/main/docs/concluding-broadcast.jpg?raw=true)
 
 ## Contact
 
