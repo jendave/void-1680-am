@@ -4,7 +4,7 @@
   "description": "FoundryVTT compendiums for VOID 1680 AM by Ken Lowery",
   "version": "#{VERSION}#",
   "compatibility": {
-    "minimum": "12",
+    "minimum": "13",
     "verified": "13",
     "maximum": "13"
   },
