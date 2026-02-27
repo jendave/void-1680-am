@@ -4,7 +4,7 @@
 
 ## [1.2.1](https://github.com/jendave/void-1680-am/blob/main/CHANGELOG.md) (2026-02-25)
 
-* Verified for v14.
+* Verified for Foundry v14.
 * Fixed broken images in journal entries.
 
 ## [1.2.0](https://github.com/jendave/void-1680-am/blob/main/CHANGELOG.md) (2025-11-18)
