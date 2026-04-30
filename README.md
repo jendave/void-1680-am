@@ -81,7 +81,7 @@ https://github.com/jendave/void-1680-am/releases/latest/download/module.json
 
 ## Credits
 
-[VOID 1680 AM](https://preview.drivethrurpg.com/en/product/202175/augmented-reality-the-holistic-city-kit-for-cyberpunk-games) by [Ken Lowery](https://bannerlessgames.itch.io) are used under the [Creative Comrades License Agreement 1.0](https://creativecomrades.org/).
+[VOID 1680 AM](https://www.drivethrurpg.com/en/product/429839/void-1680-am) by [Ken Lowery](https://bannerlessgames.itch.io) are used under the [Creative Comrades License Agreement 1.0](https://creativecomrades.org/).
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
