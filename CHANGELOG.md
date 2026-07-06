@@ -2,6 +2,11 @@
 
 [VOID 1680 AM for FoundryVTT](https://foundryvtt.com/packages/void-1680-am)
 
+## [1.3.0](https://github.com/jendave/void-1680-am/blob/main/CHANGELOG.md) (2026-07-05)
+
+* Created build process.
+* Put packs into JSON.
+
 ## [1.2.1](https://github.com/jendave/void-1680-am/blob/main/CHANGELOG.md) (2026-02-25)
 
 * Verified for Foundry v14.
