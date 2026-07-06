@@ -1,0 +1,260 @@
+{
+  "name": "Gameplay",
+  "_id": "Bkl3Xmrcs70xqsuC",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Setup",
+      "type": "text",
+      "_id": "P8saWoPVF2s1jXek",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3 id=\"install-resources\">Install Resources</h3><h4 id=\"list-of-compendiums\">List of Compendiums</h4><ul><li><em>VOID 1680 AM Roll Tables Compendium</em></li><li><em>VOID 1680 AM Macros Compendium</em></li><li><em>VOID 1680 AM Gameplay Compendium</em></li></ul><img src=\"modules/void-1680-am/docs/compendium-list.jpg\" /><p></p><h4 id=\"from-the-void-1680-am-roll-tables-compendium-\">From the <em>VOID 1680 AM Roll Tables Compendium</em></h4><ul><li>Copy all roll tables from the Compendium into the Rollable Tables tab.</li></ul><img src=\"modules/void-1680-am/docs/rolltables-list.jpg\" /><p></p><h4 id=\"from-the-void-1680-am-macros-compendium-\">From the <em>VOID 1680 AM Macros Compendium</em></h4><ul><li>Copy the all the macros from the Compendium to the Macros tab.</li><li>Individual macros can be dragged onto the Macro bar as needed.</li></ul><img src=\"modules/void-1680-am/docs/macros-list.jpg\" /><p></p><h4 id=\"from-the-void-1680-am-gameplay-compendium-\">From the <em>VOID 1680 AM Gameplay Compendium</em></h4><ul><li>Copy the all of the entries from the Compendium into the Journal tab for easy reference.</li><li>The <em>Gameplay</em> journal entry describes how to play the game using the macros and roll tables.</li></ul><img src=\"modules/void-1680-am/docs/journal-entries-list.jpg\" /><p></p><h3 id=\"gameplay-screenshots\">Gameplay Screenshots</h3><img src=\"modules/void-1680-am/docs/beginning-broadcast.jpg\" /><p></p><img src=\"modules/void-1680-am/docs/concluding-broadcast.jpg\" />"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "LNdOnjOqvcwvS2UG": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1741674594416,
+        "modifiedTime": 1772062457474,
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!Bkl3Xmrcs70xqsuC.P8saWoPVF2s1jXek"
+    },
+    {
+      "sort": 200000,
+      "name": "Gameplay",
+      "type": "text",
+      "_id": "TNW8QA0c55dYIwxz",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>A TYPICAL NIGHT’S PROGRAMMING</p><p class=\"p1\">Here, we outline a full “turn” in VOID 1680 AM, consisting of a Song Block of three songs and your chatter before and after those songs play. This manual goes into further detail on each block in the following pages, but this basic formula illustrates the flow of each turn.</p><ul><li><p class=\"p1\">Execute the Song Block macros that corresponds to the appropriate song block (First, Second, Third, Fourth) for the night's programming.</p><ul><li><p>If the caller did not request a song, execute the \"&lt;Current Song Block&gt; (3 Songs)\" macro.</p></li><li><p>If a caller did request a song, execute the \"&lt;Current Song Block&gt; (2 Songs)\" macro.</p></li><li><p>The Chat tab will display the song prompts.</p></li><li><p>Pick songs for each prompt and queue them up in your player of choice.</p></li><li><p>When a Stranger Calls</p><ul><li><p>The Chat tab will sketch out the identity of your Caller and the contents of your conversation with them.</p></li><li><p>Some Callers will request a song for the next song block.</p><ul><li><p>A Prompt for the request will display in the Chat tab.</p></li><li><p>Make sure to use the \"&lt;Song Block&gt; (2 Songs)\" macro in the next block.</p></li></ul></li></ul></li></ul></li><li><p class=\"p1\">Hit record. Introduce the first song. Stop recording.</p></li><li><p class=\"p1\">Play the songs. Listen to them. Consider the questions posed with them, if any.</p></li><li><p class=\"p1\">When the songs finish, hit record and backsell them as much or as little as you like.</p></li><li><p class=\"p1\">Talk about your conversation with the Caller as much or as little as you like.</p></li><li><p class=\"p1\">Then, pause your recording and start again with the next song block.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "LNdOnjOqvcwvS2UG": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1741674601143,
+        "modifiedTime": 1741936281141,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!Bkl3Xmrcs70xqsuC.TNW8QA0c55dYIwxz"
+    },
+    {
+      "sort": 500000,
+      "name": "Concluding Your Broadcast",
+      "type": "text",
+      "_id": "nLVfhboimSwjPrMD",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Use the <strong>Concluding Your Broadcast</strong> macro to reset all of the \"Programming Your Song Blocks\" and \"Caller ID\" rolltables.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "LNdOnjOqvcwvS2UG": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "13.351",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1741674606943,
+        "modifiedTime": 1742007094200,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB",
+        "exportSource": null
+      },
+      "category": null,
+      "_key": "!journal.pages!Bkl3Xmrcs70xqsuC.nLVfhboimSwjPrMD"
+    },
+    {
+      "sort": 150000,
+      "name": "Beginning Your Broadcast",
+      "type": "text",
+      "_id": "tgtGJLS5E6Dqa1CN",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Use the <strong>Beginning Your Broadcast</strong> macro to reset all of the \"Programming Your Song Blocks\" and \"Caller ID\" rolltables.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "2aM9JsscXLsIZhiB": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1741935182181,
+        "modifiedTime": 1741935194591,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB"
+      },
+      "_key": "!journal.pages!Bkl3Xmrcs70xqsuC.tgtGJLS5E6Dqa1CN"
+    },
+    {
+      "sort": 400000,
+      "name": "Continuing Your Broadcast",
+      "type": "text",
+      "_id": "V2rTm0ewnKQgRCQQ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Copy and use the @UUID[Compendium.void-1680-am.void1680ammjournalentries.JournalEntry.rwPRdphpLG1YG2GC]{Caller Cards Journal} to keep track of your Callers.</p><p>Use the macros in the <em>Continuing Your Broadcast</em> and <em>Continuing Your Broadcast - Voices in the Void</em> folders to determine the natures of the conversations.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "2aM9JsscXLsIZhiB": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1742006925588,
+        "modifiedTime": 1742007200741,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB"
+      },
+      "_key": "!journal.pages!Bkl3Xmrcs70xqsuC.V2rTm0ewnKQgRCQQ"
+    },
+    {
+      "sort": 600000,
+      "name": "Troubleshooting",
+      "type": "text",
+      "_id": "ka2suiPQH15FzdMo",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>Possible Issues</h2><ul><li><p>Error: \"There are no available results which can be drawn from this table.\"</p><ul><li><p>A table has run out of results to choose from. Run any of the following macros:</p><ul><li><p><em>Beginning your Broadcast</em></p></li><li><p><em>Concluding your Broadcast</em></p></li><li><p><em>Resetting Roll Tables</em></p></li></ul></li></ul></li></ul><h2>Contact</h2><ul><li><p>How do I contact the author about a bug fix/feendback?</p><ul><li><p>https://github.com/jendave/void-1680-am?tab=readme-ov-file#contact</p></li></ul></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "2aM9JsscXLsIZhiB": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1742222229872,
+        "modifiedTime": 1742222649962,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB"
+      },
+      "_key": "!journal.pages!Bkl3Xmrcs70xqsuC.ka2suiPQH15FzdMo"
+    }
+  ],
+  "folder": "xHWR4cE9Bsa3UX64",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "LNdOnjOqvcwvS2UG": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741674587921,
+    "modifiedTime": 1741934890245,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "categories": [],
+  "_key": "!journal!Bkl3Xmrcs70xqsuC"
+}

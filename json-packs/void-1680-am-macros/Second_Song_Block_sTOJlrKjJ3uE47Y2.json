@@ -1,0 +1,22 @@
+{
+  "name": "Second Song Block",
+  "sorting": "m",
+  "folder": "vD5SbsIbq8xkTw9C",
+  "type": "Macro",
+  "_id": "sTOJlrKjJ3uE47Y2",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!folders!sTOJlrKjJ3uE47Y2"
+}

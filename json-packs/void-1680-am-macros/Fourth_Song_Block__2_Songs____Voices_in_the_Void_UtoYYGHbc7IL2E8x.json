@@ -1,0 +1,28 @@
+{
+  "name": "Fourth Song Block (2 Songs) - Voices in the Void",
+  "type": "script",
+  "author": "2aM9JsscXLsIZhiB",
+  "img": "modules/void-1680-am/assets/icons/inverted-dice-4.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nfunction resetRollTables(item, index) {\n    game.tables.getName(item).resetResults();\n}\n\ntry {\n    let rollTableName = \"The Fourth Song Block: Hearts\";\n    let rollTableTitle = \"The Fourth Song Block\";\n    let title = \"<h2>\" + rollTableTitle + \"</h2>\";\n    let message = \"<p>The fourth song block is the conclusion of your broadcast day. As you pick your songs, consider how they respond to or play off of your previous selections. If the first block is a thesis statement, what final songs make good on that promise?</p><p>Consider how your favorite musical acts conclude their concerts: some like lingering melancholy, or moments of quiet beauty. Others like to blow the roof off in one final all-or-nothing push. By now, you likely know how you want to go out.</p>\";\n\n    printMessage(title + message);\n    const songBlockRoll = await game.tables.getName(rollTableName).drawMany(2, options = { recursive: true, rollMode: game.settings.get(\"core\", \"rollMode\") });\n\n    rollTableName = \"Caller ID - Voices in the Void\";\n    rollTableTitle = \"When a Stranger Calls\";\n    title = \"<h3>\" + rollTableTitle + \"</h3>\";\n    message = \"During each song block, someone will call in to talk with you – or at the very least, talk at you. People who call in to radio shows to talk are acting on a strong, simple need to be heard, no matter by who. In that way, you are very alike.\";\n\n    printMessage(title + message);\n    let callerRoll = await game.tables.getName(rollTableName).draw(options = { recursive: true, rollMode: game.settings.get(\"core\", \"rollMode\") });\n\n    if (game.release.generation < 13) {\n        if (callerRoll.results[1].parent.name.includes(\"Hearts\")) {\n            let items = [songBlockRoll.results[0], songBlockRoll.results[1], songBlockRoll.results[2]]\n            items.sort((a, b) => b.range[0] - a.range[0]);\n\n            printMessage(\"The Caller is calling about the song you played for \\\"\" + items[0].text + \"\\\"\");\n        } else {\n            printMessage(\"The Caller has no attachment to the music. They just want to talk to someone.\")\n        }\n    } else {\n        if (callerRoll.results[1].parent.name.includes(\"Hearts\")) {\n            let items = [songBlockRoll.results[0], songBlockRoll.results[1], songBlockRoll.results[2]]\n            items.sort((a, b) => b.range[0] - a.range[0]);\n\n            printMessage(\"<h6>The Caller is calling about the song you played for \\\"\" + items[0].description + \"\\\"</h6>\");\n        } else {\n            printMessage(\"<h6>The Caller has no attachment to the music. They just want to talk to someone.</h6>\")\n        }\n    }\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": "fmJSRg7ZIGRml7pL",
+  "ownership": {
+    "default": 0,
+    "2aM9JsscXLsIZhiB": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741915116561,
+    "modifiedTime": 1742522188435,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "_id": "UtoYYGHbc7IL2E8x",
+  "sort": 200000,
+  "_key": "!macros!UtoYYGHbc7IL2E8x"
+}

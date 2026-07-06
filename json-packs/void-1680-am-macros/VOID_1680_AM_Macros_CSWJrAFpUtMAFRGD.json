@@ -1,0 +1,23 @@
+{
+  "type": "Macro",
+  "folder": null,
+  "name": "VOID 1680 AM Macros",
+  "color": null,
+  "sorting": "m",
+  "_id": "CSWJrAFpUtMAFRGD",
+  "description": "",
+  "sort": 500000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741934691992,
+    "modifiedTime": 1741934746495,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB"
+  },
+  "_key": "!folders!CSWJrAFpUtMAFRGD"
+}

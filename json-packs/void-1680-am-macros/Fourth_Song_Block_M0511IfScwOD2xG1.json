@@ -1,0 +1,22 @@
+{
+  "name": "Fourth Song Block",
+  "sorting": "m",
+  "folder": "vD5SbsIbq8xkTw9C",
+  "type": "Macro",
+  "_id": "M0511IfScwOD2xG1",
+  "description": "",
+  "sort": 200000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741679920986,
+    "modifiedTime": 1741680380576,
+    "lastModifiedBy": "LNdOnjOqvcwvS2UG"
+  },
+  "_key": "!folders!M0511IfScwOD2xG1"
+}

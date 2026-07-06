@@ -1,0 +1,23 @@
+{
+  "name": "Song Blocks",
+  "sorting": "m",
+  "folder": "CSWJrAFpUtMAFRGD",
+  "type": "Macro",
+  "_id": "vD5SbsIbq8xkTw9C",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741678420354,
+    "modifiedTime": 1741934702826,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "_key": "!folders!vD5SbsIbq8xkTw9C"
+}

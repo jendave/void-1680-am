@@ -1,0 +1,28 @@
+{
+  "name": "Second Song Block (2 Songs)",
+  "type": "script",
+  "_id": "j3bnTZwjSAyeqb1X",
+  "author": "LNdOnjOqvcwvS2UG",
+  "img": "modules/void-1680-am/assets/icons/inverted-dice-2.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nfunction resetRollTables(item, index) {\n    game.tables.getName(item).resetResults();\n}\n\ntry {\n    let rollTableName = \"The Second Song Block: Diamonds\";\n    let rollTableTitle = \"The Second Song Block\";\n    let title = \"<h2>\" + rollTableTitle + \"</h2>\";\n    let message = \"In general, the songs in the second block increase the intensity of the playlist, building toward an emotional climax. This doesn’t necessarily mean the songs have to be faster, or louder; think emotional intensity, which is not always expressed with volume.\";\n\n    printMessage(title + message);\n    const songBlockRoll = await game.tables.getName(rollTableName).drawMany(2, options = { recursive: true, rollMode: game.settings.get(\"core\", \"rollMode\") });\n\n    rollTableName = \"Caller ID\";\n    rollTableTitle = \"When a Stranger Calls\";\n    title = \"<h3>\" + rollTableTitle + \"</h3>\";\n    message = \"During each song block, someone will call in to talk with you – or at the very least, talk at you. People who call in to radio shows to talk are acting on a strong, simple need to be heard, no matter by who. In that way, you are very alike.\";\n\n    printMessage(title + message);\n    let callerRoll = await game.tables.getName(rollTableName).draw(options = { recursive: true, rollMode: game.settings.get(\"core\", \"rollMode\") });\n\n    if (game.release.generation < 13) {\n        if (callerRoll.results[1].parent.name.includes(\"Diamonds\")) {\n            let items = [songBlockRoll.results[0], songBlockRoll.results[1], songBlockRoll.results[2]]\n            items.sort((a, b) => b.range[0] - a.range[0]);\n\n            printMessage(\"The Caller is calling about the song you played for \\\"\" + items[0].text + \"\\\"\");\n\n        } else if (callerRoll.results[1].parent.name.includes(\"Spades\")) {\n            printMessage(\"The Caller is making a request\");\n            const callerRequestTableName = \"Caller Request Table\"\n            await game.tables.getName(callerRequestTableName).draw(options = { recursive: true, rollMode: game.settings.get(\"core\", \"rollMode\") });\n        } else {\n            printMessage(\"The Caller has no attachment to the music. They just want to talk to someone.\")\n        }\n    } else {\n        if (callerRoll.results[1].parent.name.includes(\"Diamonds\")) {\n            let items = [songBlockRoll.results[0], songBlockRoll.results[1], songBlockRoll.results[2]]\n            items.sort((a, b) => b.range[0] - a.range[0]);\n\n            printMessage(\"<h6>The Caller is calling about the song you played for \\\"\" + items[0].description + \"\\\"</h6>\");\n\n        } else if (callerRoll.results[1].parent.name.includes(\"Spades\")) {\n            printMessage(\"<h6>The Caller is making a request</h6>\");\n            const callerRequestTableName = \"Caller Request Table\"\n            await game.tables.getName(callerRequestTableName).draw(options = { recursive: true, rollMode: game.settings.get(\"core\", \"rollMode\") });\n        } else {\n            printMessage(\"<h6>The Caller has no attachment to the music. They just want to talk to someone.</h6>\")\n        }\n    }\n}\ncatch (e) {\n    console.log(\"Resetting tables.\");\n}",
+  "folder": "sTOJlrKjJ3uE47Y2",
+  "sort": -50000,
+  "ownership": {
+    "default": 0,
+    "LNdOnjOqvcwvS2UG": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741677964768,
+    "modifiedTime": 1742515792260,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "_key": "!macros!j3bnTZwjSAyeqb1X"
+}

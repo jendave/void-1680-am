@@ -1,0 +1,23 @@
+{
+  "type": "Macro",
+  "folder": "CSWJrAFpUtMAFRGD",
+  "name": "Continuing Your Broadcast - Voices in the Void",
+  "color": null,
+  "sorting": "m",
+  "_id": "FMn99lsjEzpYtzMG",
+  "description": "",
+  "sort": 400000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741919100557,
+    "modifiedTime": 1741934709821,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB"
+  },
+  "_key": "!folders!FMn99lsjEzpYtzMG"
+}

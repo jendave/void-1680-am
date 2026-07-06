@@ -1,0 +1,13 @@
+#! /bin/bash
+# Assemble the distributable module under dist/ by copying the static files
+# (manifest, assets, docs, licenses) alongside the compiled compendium packs
+# produced by script/build-packs.
+
+set -eu
+
+mkdir -p dist
+
+# Static files and directories that ship as-is.
+cp module.json dist/
+cp -R assets dist/
+cp -R docs dist/

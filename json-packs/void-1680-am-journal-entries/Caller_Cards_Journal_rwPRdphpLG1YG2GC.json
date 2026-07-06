@@ -1,0 +1,65 @@
+{
+  "folder": "xHWR4cE9Bsa3UX64",
+  "name": "Caller Cards Journal",
+  "_id": "rwPRdphpLG1YG2GC",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Caller Cards Journal",
+      "type": "text",
+      "_id": "SxM6MNMp3ajQuEPH",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p><table><tbody><tr><th><p>Caller ID</p></th><th><p>First Call</p></th><th><p>Second Call</p></th><th><p>Third Call</p></th><th><p>Fourth Call</p></th></tr><tr><td><p>Jack of Clubs</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Queen of Clubs</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>King of Clubs</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Ace of Clubs</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Jack of Diamonds</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Queen of Diamonds</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>King of Diamonds</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Ace of Diamonds</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Jack of Spades</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Queen of Spades</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>King of Spades</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Ace of Spades</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Jack of Hearts</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Queen of Hearts</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>King of Hearts</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Ace of Hearts</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "2aM9JsscXLsIZhiB": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "worldbuilding",
+        "systemVersion": "0.8.2",
+        "createdTime": 1742001303476,
+        "modifiedTime": 1742006765599,
+        "lastModifiedBy": "2aM9JsscXLsIZhiB"
+      },
+      "_key": "!journal.pages!rwPRdphpLG1YG2GC.SxM6MNMp3ajQuEPH"
+    }
+  ],
+  "categories": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "2aM9JsscXLsIZhiB": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1742001277102,
+    "modifiedTime": 1742001284854,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB"
+  },
+  "_key": "!journal!rwPRdphpLG1YG2GC"
+}

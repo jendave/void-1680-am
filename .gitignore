@@ -132,3 +132,7 @@ temp/
 /index.js
 /index.js.map
 /style.css
+
+# The distributable module is assembled under dist/ by the build (compendium
+# packs are compiled from json-packs/ — the source of truth — into dist/packs).
+# `/dist` is already ignored above.

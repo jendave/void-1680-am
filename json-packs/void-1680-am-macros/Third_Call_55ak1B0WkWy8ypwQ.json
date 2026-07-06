@@ -1,0 +1,28 @@
+{
+  "name": "Third Call",
+  "type": "script",
+  "author": "2aM9JsscXLsIZhiB",
+  "img": "modules/void-1680-am/assets/icons/inverted-dice-3.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nfunction resetRollTables(item, index) {\n    game.tables.getName(item).resetResults();;\n}\n\ntry {\n    let rollTableName = \"Third Call\";\n    let rollTableTitle = \"Third Call\";\n    let title = \"<h2>\" + rollTableTitle + \"</h2>\";\n    let message = \"On a Caller’s third call, generate a follow-up to the previous call – a twist or turn in their story.\";\n\n    printMessage(title + message);\n    const songBlockRoll = await game.tables.getName(rollTableName).draw(options = { recursive: true, rollMode: game.settings.get(\"core\", \"rollMode\") });\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": "z7qRIeh7oFdp5dUL",
+  "ownership": {
+    "default": 0,
+    "2aM9JsscXLsIZhiB": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741919060239,
+    "modifiedTime": 1741919358002,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB"
+  },
+  "_id": "55ak1B0WkWy8ypwQ",
+  "sort": 300000,
+  "_key": "!macros!55ak1B0WkWy8ypwQ"
+}

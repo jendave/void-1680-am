@@ -1,0 +1,28 @@
+{
+  "folder": "FnKSzdlUdJZcZEmB",
+  "name": "Resetting Roll Tables",
+  "type": "script",
+  "_id": "xcrjgFDUVLH06CC7",
+  "author": "2aM9JsscXLsIZhiB",
+  "img": "modules/void-1680-am/assets/icons/anticlockwise-rotation.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let title = \"<h3>Resetting Roll Tables</h3>\";\n    let message = \"Resetting Roll Tables.<p><h4>Restarting!</h4>\";\n    printMessage(title + message);\n    const rollTableNames = [ \"The First Song Block: Clubs\", \"The Second Song Block: Diamonds\", \"The Third Song Block: Spades\", \"The Fourth Song Block: Hearts\", \"Caller ID\", \"Caller ID - Voices in the Void\"];\n\n    rollTableNames.forEach(resetRollTables);\n\n    function resetRollTables(item, index) {\n      game.tables.getName(item).resetResults();;\n    }\n\n}\ncatch (e) {\n    console.log(e);\n}",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "2aM9JsscXLsIZhiB": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1742192137792,
+    "modifiedTime": 1742221738958,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB"
+  },
+  "_key": "!macros!xcrjgFDUVLH06CC7"
+}

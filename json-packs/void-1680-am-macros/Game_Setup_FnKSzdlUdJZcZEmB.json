@@ -1,0 +1,23 @@
+{
+  "name": "Game Setup",
+  "sorting": "a",
+  "folder": "CSWJrAFpUtMAFRGD",
+  "type": "Macro",
+  "_id": "FnKSzdlUdJZcZEmB",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.337",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741679553993,
+    "modifiedTime": 1741934716210,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "_key": "!folders!FnKSzdlUdJZcZEmB"
+}

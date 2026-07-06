@@ -1,0 +1,29 @@
+{
+  "name": "First Song Block (3 Songs)",
+  "type": "script",
+  "author": "2aM9JsscXLsIZhiB",
+  "img": "modules/void-1680-am/assets/icons/inverted-dice-1.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nfunction resetRollTables(item, index) {\n    game.tables.getName(item).resetResults();\n}\n\ntry {\n    let rollTableName = \"The First Song Block: Clubs\";\n    let rollTableTitle = \"The First Song Block\";\n    let title = \"<h2>\" + rollTableTitle + \"</h2>\";\n    let message = \"These songs are your thesis statement: a declaration of your show’s tone and depth. They are also typically (but not necessarily) higher energy.\";\n\n    printMessage(title + message);\n    const songBlockRoll = await game.tables.getName(rollTableName).drawMany(3, options = { recursive: true, rollMode: game.settings.get(\"core\", \"rollMode\") });\n\n    rollTableName = \"Caller ID\";\n    rollTableTitle = \"When a Stranger Calls\";\n    title = \"<h3>\" + rollTableTitle + \"</h3>\";\n    message = \"During each song block, someone will call in to talk with you – or at the very least, talk at you. People who call in to radio shows to talk are acting on a strong, simple need to be heard, no matter by who. In that way, you are very alike.\";\n\n    printMessage(title + message);\n    let callerRoll = await game.tables.getName(rollTableName).draw(options = { recursive: true, rollMode: game.settings.get(\"core\", \"rollMode\") });\n\n    if (game.release.generation < 13) {\n        if (callerRoll.results[1].parent.name.includes(\"Clubs\")) {\n            let items = [songBlockRoll.results[0], songBlockRoll.results[1], songBlockRoll.results[2]]\n            items.sort((a, b) => b.range[0] - a.range[0]);\n\n            printMessage(\"The Caller is calling about the song you played for \\\"\" + items[0].text + \"\\\"\");\n\n        } else if (callerRoll.results[1].parent.name.includes(\"Diamonds\")) {\n            printMessage(\"The Caller is making a request\");\n            const callerRequestTableName = \"Caller Request Table\"\n            await game.tables.getName(callerRequestTableName).draw(options = { recursive: true, rollMode: game.settings.get(\"core\", \"rollMode\") });\n        } else {\n            printMessage(\"The Caller has no attachment to the music. They just want to talk to someone.\")\n        }\n    } else {\n        if (callerRoll.results[1].parent.name.includes(\"Clubs\")) {\n            let items = [songBlockRoll.results[0], songBlockRoll.results[1], songBlockRoll.results[2]]\n            items.sort((a, b) => b.range[0] - a.range[0]);\n\n            printMessage(\"<h6>The Caller is calling about the song you played for \\\"\" + items[0].description + \"\\\"</h6>\");\n\n        } else if (callerRoll.results[1].parent.name.includes(\"Diamonds\")) {\n            printMessage(\"<h6>The Caller is making a request</h6>\");\n            const callerRequestTableName = \"Caller Request Table\"\n            await game.tables.getName(callerRequestTableName).draw(options = { recursive: true, rollMode: game.settings.get(\"core\", \"rollMode\") });\n        } else {\n            printMessage(\"<h6>The Caller has no attachment to the music. They just want to talk to someone.</h6>\")\n        }\n    }\n}\ncatch (e) {\n    console.log(e);\n}",
+  "folder": "8EkaKf1W61O40pI7",
+  "ownership": {
+    "default": 0,
+    "LNdOnjOqvcwvS2UG": 3,
+    "2aM9JsscXLsIZhiB": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "worldbuilding",
+    "systemVersion": "0.8.2",
+    "createdTime": 1741897884487,
+    "modifiedTime": 1742515770035,
+    "lastModifiedBy": "2aM9JsscXLsIZhiB",
+    "exportSource": null
+  },
+  "_id": "RqGWGr3cIkGPscow",
+  "sort": 0,
+  "_key": "!macros!RqGWGr3cIkGPscow"
+}
